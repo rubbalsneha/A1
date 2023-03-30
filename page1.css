@@ -1,0 +1,59 @@
+#hide{
+    text-align:center;
+    background-color: pink;
+    margin-bottom:0;
+    padding:3%;
+}
+h1{
+    font-family: cursive;
+    font-size: 4rem;
+    color: #ef8172;
+    
+    visibility: hidden;
+}
+.hide-1{
+    visibility: visible;
+}
+hr{
+    
+    width: 3rem;
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color:rgb(127, 255, 185);
+    margin:0 auto 0;
+    
+
+}
+
+#images{
+    margin-top:0;
+    background-color: #ef8172;
+    text-align: center;
+}
+
+img{
+    margin-top:0;
+    margin-bottom: 0.5rem;
+    width:100%;
+    height:100%;
+    border-radius:100%;
+    padding:3%;
+}
+.image4{
+    width:50%;
+
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+#bottom{
+    background-color: aquamarine;
+    margin-bottom:0;
+    padding:3%;
+    text-align: center;
+}
+
+.title-icon{
+    color:red;
+}

@@ -1,0 +1,63 @@
+/* title section */
+#title{
+    background-color: azure;
+    text-align: center;
+    padding:5%;
+    
+    
+    
+}
+ 
+h1{
+    font-family: cursive;
+    font-size: 4rem;
+    color: #ef8172;
+}
+h1:hover{
+    color:black;
+}
+.title-icon{
+    color:#ff4c68
+}
+.title-icon:hover{
+    color:rgb(242, 38, 38);
+}
+
+/* name-section */
+#name{
+    background-color: #ff4c68;
+    padding:6%;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 4rem;
+}
+
+.name1{
+    color:#fff;
+}
+.name1:hover{
+    color: #000;
+}
+.name2{
+    color:#000;
+}
+.name2:hover{
+    color:#fff;
+}
+.name-image{
+    width:60%;
+    border-radius:100%;
+    height:110%;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: red;
+}
+.icon:hover{
+    color:bisque;
+}
