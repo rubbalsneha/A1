@@ -3,6 +3,7 @@
     background-color: azure;
     text-align: center;
     padding:5%;
+    padding-bottom:30%;
     
     
     
@@ -27,6 +28,7 @@ h1:hover{
 #name{
     background-color: #ff4c68;
     padding:6%;
+    padding-bottom: 40%;
 }
 
 h2{
